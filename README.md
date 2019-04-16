@@ -5,3 +5,7 @@ This repository is for showing how Git and GitHub work
 ## Purpose
 
 Sample website with plenty of files for demos
+
+## Contact
+
+Please email: ramin.mz66@gmail.com
